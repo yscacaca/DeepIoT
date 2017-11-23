@@ -5,3 +5,8 @@ Yao, Shuochao, et al. "DeepIoT: Compressing Deep Neural Network Structures for S
 
 ## The preprocessed dataset of HHAR task in tfrecord format
 https://www.dropbox.com/s/bmwz78do7m0mag0/sepHARData_a_tfrecord.zip?dl=0
+
+## Run the compressing example
+```
+python DeepIoT_DeepSense_HHAR.py
+```
